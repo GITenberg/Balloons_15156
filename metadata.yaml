@@ -1,0 +1,35 @@
+_repo: Balloons_15156
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bibesco, Elizabeth
+    aliases:
+    - Asquith, Elizabeth
+    - Bibescu, Elizabeth Asquith
+    birthdate: 1897
+    deathdate: 1945
+    gutenberg_agent_id: '5890'
+    url: http://www.gutenberg.org/2009/agents/5890
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Bibesco
+description: ''
+gutenberg_issued: '2005-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: Haven -- Two Paris episodes -- Courtship -- "Do you remember ...?"
+  -- The martyr -- A motor -- The masterpiece -- Tea time -- The end -- Misunderstood
+  -- Counterpoint -- Villegiatura -- Auld lang syne -- Two taxi drives -- A touch
+  of spring -- Fido and Ponto.
+title: Balloons
+url: http://www.gutenberg.org/ebooks/15156
